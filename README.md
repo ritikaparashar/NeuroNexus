@@ -94,11 +94,6 @@ Understanding which features contributed most to the prediction:
 - Add ensemble comparisons (e.g., XGBoost, SVM)
 - Build a web app using Streamlit or Flask
 
----
-
-## 🧾 License
-
-This project is licensed under the MIT License. Feel free to use and modify.
 
 ---
 
